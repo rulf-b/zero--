@@ -5,12 +5,16 @@ import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 
 const DATA_PATH = path.join(process.cwd(), 'data', 'admin1-user.json');
-const JWT_SECRET = process.env.JWT_SECRET || 'fallback-secret-key-change-in-production';
+const JWT_SECRET = process.env.JWT_SECRET;
+
+if (!JWT_SECRET) {
+  throw new Error('JWT_SECRET environment variable is required');
+}
 
 // Helper function to verify admin1 token
 function verifyAdmin1Token(req: NextRequest) {
   const token = req.cookies.get('admin1_token')?.value;
-  if (!token) return null;
+  if (!token || !JWT_SECRET) return null;
   try {
     return jwt.verify(token, JWT_SECRET) as any;
   } catch {

@@ -5,12 +5,18 @@ import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 
 const DATA_PATH = path.join(process.cwd(), 'data', 'admin2-user.json');
-const JWT_SECRET = process.env.JWT_SECRET || 'fallback-secret-key-change-in-production';
+const JWT_SECRET = process.env.JWT_SECRET;
+
+if (!JWT_SECRET) {
+  throw new Error('JWT_SECRET environment variable is required');
+}
 
 // Helper function to verify admin token (both admin1 and admin2 can access this)
 function verifyAdminToken(req: NextRequest) {
   const admin1Token = req.cookies.get('admin1_token')?.value;
   const admin2Token = req.cookies.get('admin2_token')?.value;
+  
+  if (!JWT_SECRET) return null;
   
   if (admin1Token) {
     try {

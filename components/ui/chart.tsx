@@ -67,6 +67,19 @@ const ChartContainer = React.forwardRef<
 });
 ChartContainer.displayName = 'Chart';
 
+// CSS sanitization function
+function sanitizeCSS(css: string): string {
+  // Remove potentially dangerous CSS
+  return css
+    .replace(/<[^>]*>/g, '') // Remove HTML tags
+    .replace(/javascript:/gi, '') // Remove javascript: URLs
+    .replace(/expression\s*\(/gi, '') // Remove CSS expressions
+    .replace(/url\s*\(/gi, '') // Remove url() functions
+    .replace(/@import/gi, '') // Remove @import
+    .replace(/behavior\s*:/gi, '') // Remove behavior property
+    .replace(/binding\s*:/gi, ''); // Remove binding property
+}
+
 const ChartStyle = ({ id, config }: { id: string; config: ChartConfig }) => {
   const colorConfig = Object.entries(config).filter(
     ([_, config]) => config.theme || config.color
@@ -76,25 +89,31 @@ const ChartStyle = ({ id, config }: { id: string; config: ChartConfig }) => {
     return null;
   }
 
-  return (
-    <style
-      dangerouslySetInnerHTML={{
-        __html: Object.entries(THEMES)
-          .map(
-            ([theme, prefix]) => `
+  const cssContent = Object.entries(THEMES)
+    .map(
+      ([theme, prefix]) => `
 ${prefix} [data-chart=${id}] {
 ${colorConfig
   .map(([key, itemConfig]) => {
     const color =
       itemConfig.theme?.[theme as keyof typeof itemConfig.theme] ||
       itemConfig.color;
-    return color ? `  --color-${key}: ${color};` : null;
+    
+    // Sanitize color values
+    const sanitizedColor = color ? color.replace(/[<>"']/g, '') : null;
+    return sanitizedColor ? `  --color-${key.replace(/[^a-zA-Z0-9-_]/g, '')}: ${sanitizedColor};` : null;
   })
+  .filter(Boolean)
   .join('\n')}
 }
 `
-          )
-          .join('\n'),
+    )
+    .join('\n');
+
+  return (
+    <style
+      dangerouslySetInnerHTML={{
+        __html: sanitizeCSS(cssContent),
       }}
     />
   );

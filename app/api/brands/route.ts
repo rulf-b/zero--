@@ -1,6 +1,7 @@
-import { NextRequest } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
+import { requireAuth } from '@/lib/auth-middleware';
 
 const brandsFile = path.join(process.cwd(), 'data', 'brands.json');
 
@@ -16,12 +17,18 @@ export async function GET(req: NextRequest) {
   }
 }
 
-export async function POST(req: NextRequest) {
+export const POST = requireAuth(async (req) => {
   try {
     const body = await req.json();
+    
+    // Basic validation
+    if (!Array.isArray(body)) {
+      return NextResponse.json({ error: 'Geçersiz veri formatı.' }, { status: 400 });
+    }
+    
     fs.writeFileSync(brandsFile, JSON.stringify(body, null, 2), 'utf-8');
-    return new Response(JSON.stringify({ success: true }), { status: 200 });
+    return NextResponse.json({ success: true });
   } catch (e) {
-    return new Response(JSON.stringify({ error: 'Markalar kaydedilemedi.' }), { status: 500 });
+    return NextResponse.json({ error: 'Markalar kaydedilemedi.' }, { status: 500 });
   }
-} 
+}); 

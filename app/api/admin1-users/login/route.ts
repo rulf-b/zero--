@@ -3,38 +3,50 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
+import { loginSchema } from '@/lib/validation';
+import { logSecurity } from '@/lib/logger';
+import { checkRateLimit, recordAttempt } from '@/lib/rate-limit';
 
 const DATA_PATH = path.join(process.cwd(), 'data', 'admin1-user.json');
-const JWT_SECRET = process.env.JWT_SECRET || 'fallback-secret-key-change-in-production';
+const JWT_SECRET = process.env.JWT_SECRET;
 
-// Rate limiting simple implementation
-const loginAttempts = new Map();
-const MAX_ATTEMPTS = 5;
-const BLOCK_TIME = 15 * 60 * 1000; // 15 minutes
+if (!JWT_SECRET) {
+  throw new Error('JWT_SECRET environment variable is required');
+}
 
 export async function POST(req: NextRequest) {
   try {
-    const { username, password } = await req.json();
+    const body = await req.json();
+    
+    // Validate input
+    const validation = loginSchema.safeParse(body);
+    if (!validation.success) {
+      return NextResponse.json({ 
+        error: 'Geçersiz veri formatı',
+        details: validation.error.issues.map(issue => issue.message)
+      }, { status: 400 });
+    }
+    
+    const { username, password } = validation.data;
     const clientIP = req.headers.get('x-forwarded-for') || req.headers.get('x-real-ip') || 'unknown';
     
     // Rate limiting check
     const attemptKey = `admin1_${clientIP}`;
-    const attempts = loginAttempts.get(attemptKey) || { count: 0, lastAttempt: 0 };
+    const rateLimitResult = checkRateLimit(attemptKey);
     
-    if (attempts.count >= MAX_ATTEMPTS && Date.now() - attempts.lastAttempt < BLOCK_TIME) {
-      return NextResponse.json({ error: 'Çok fazla başarısız deneme. 15 dakika bekleyin.' }, { status: 429 });
-    }
-
-    if (!username || !password) {
-      return NextResponse.json({ error: 'Kullanıcı adı ve şifre zorunlu.' }, { status: 400 });
+    if (!rateLimitResult.allowed) {
+      logSecurity(`Rate limit exceeded for admin1 login`, req);
+      return NextResponse.json({ 
+        error: `Çok fazla başarısız deneme. ${rateLimitResult.timeUntilReset} saniye bekleyin.` 
+      }, { status: 429 });
     }
 
     const data = JSON.parse(await fs.readFile(DATA_PATH, 'utf-8'));
     
     // Username check
     if (data.username !== username) {
-      // Increment failed attempts
-      loginAttempts.set(attemptKey, { count: attempts.count + 1, lastAttempt: Date.now() });
+      recordAttempt(attemptKey, false);
+      logSecurity(`Failed login attempt - invalid username: ${username}`, req);
       return NextResponse.json({ error: 'Kullanıcı adı veya şifre hatalı.' }, { status: 401 });
     }
 
@@ -42,15 +54,19 @@ export async function POST(req: NextRequest) {
     const isValidPassword = await bcrypt.compare(password, data.password);
     
     if (!isValidPassword) {
-      // Increment failed attempts
-      loginAttempts.set(attemptKey, { count: attempts.count + 1, lastAttempt: Date.now() });
+      recordAttempt(attemptKey, false);
+      logSecurity(`Failed login attempt - invalid password for user: ${username}`, req);
       return NextResponse.json({ error: 'Kullanıcı adı veya şifre hatalı.' }, { status: 401 });
     }
 
-    // Reset failed attempts on successful login
-    loginAttempts.delete(attemptKey);
+    // Success - reset rate limit
+    recordAttempt(attemptKey, true);
+    logSecurity(`Successful admin1 login: ${username}`, req, username);
 
     // Generate JWT token
+    if (!JWT_SECRET) {
+      return NextResponse.json({ error: 'Sunucu yapılandırma hatası.' }, { status: 500 });
+    }
     const token = jwt.sign({ username, type: 'admin1' }, JWT_SECRET, { expiresIn: '24h' });
 
     const response = NextResponse.json({ success: true, token });
