@@ -1,0 +1,78 @@
+[
+  {
+    "id": "1",
+    "title": "TV Ekran Değişimi",
+    "description": "Tüm büyük markalar için LCD, LED, OLED ve QLED ekran değişimi hizmeti.",
+    "icon": "Monitor",
+    "features": [
+      "32\" - 85\" arası tüm ekran boyutları",
+      "Orijinal kalitede paneller",
+      "Aynı gün servis imkanı",
+      "12 ay garanti",
+      "Renk kalibrasyonu dahil",
+      "Profesyonel montaj"
+    ],
+    "price": "Fiyat için teklif alın",
+    "priceRange": "₺800 - ₺1200",
+    "image": "/services/screen-replacement.jpg",
+    "href": "/services/tv-screen-replacement",
+    "popular": true
+  },
+  {
+    "id": "2",
+    "title": "LED Panel & Arka Aydınlatma Tamiri",
+    "description": "Arka aydınlatma sorunları, LED şerit değişimi ve parlaklık problemleri çözümü.",
+    "icon": "Zap",
+    "features": [
+      "LED arka aydınlatma şerit değişimi",
+      "İnvertör kartı tamiri",
+      "Güç kaynağı onarımı",
+      "Parlaklık ayarı",
+      "Renk düzeltme",
+      "Edge-lit ve direct-lit LEDler"
+    ],
+    "price": "Fiyat için teklif alın",
+    "priceRange": "₺500 - ₺1.20466",
+    "image": "/services/led-replacement.jpg",
+    "href": "/services/led-replacement",
+    "popular": false
+  },
+  {
+    "id": "3",
+    "title": "Anakart & Logic Board Tamiri",
+    "description": "Gelişmiş anakart teşhisi ve bileşen bazında onarımlar.",
+    "icon": "Cpu",
+    "features": [
+      "Bileşen bazında teşhis",
+      "IC çip değişimi",
+      "Yazılım güncelleme & yükleme",
+      "Güç regülasyonu onarımı",
+      "HDMI port tamiri",
+      "Akıllı TV fonksiyonlarının geri kazandırılması"
+    ],
+    "price": "Fiyat için teklif alın",
+    "priceRange": "₺6002 - ₺1.800",
+    "image": "/services/motherboard-repair.jpg",
+    "href": "/services/motherboard-repair",
+    "popular": false
+  },
+  {
+    "id": "4",
+    "title": "Genel TV Tamiri",
+    "description": "Çeşitli sorunlar için kapsamlı TV tamir hizmetleri.",
+    "icon": "Wrench",
+    "features": [
+      "Ses problemleri",
+      "Uzaktan kumanda sorunları",
+      "Port ve konnektör tamiri",
+      "Ayak ve montaj onarımları",
+      "Yazılım sorun giderme",
+      "Performans optimizasyonu"
+    ],
+    "price": "Fiyat için teklif alın",
+    "priceRange": "₺200 ~ ₺800",
+    "image": "/services/general-repair.jpg",
+    "href": "/services/general-repair",
+    "popular": false
+  }
+]

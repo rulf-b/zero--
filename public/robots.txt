@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+User-agent: *
+Allow: /
+
+# Türkçe URL yapısını tercih et
+Disallow: /brands/
+
+# Sitemap
+Sitemap: https://ekransitesi.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+
+# Allow important pages
+Allow: /
+Allow: /services/
+Allow: /brands/
+Allow: /locations/
+Allow: /quote/
+Allow: /contact/
+Allow: /about/
+Allow: /blog/

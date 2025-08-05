@@ -1,0 +1,1192 @@
+"filename", "language", "JavaScript", "TypeScript", "JSON with Comments", "JSON", "HTML", "XML", "TypeScript JSX", "Python", "MS SQL", "PostCSS", "Markdown", "comment", "blank", "total"
+"c:\Users\ibrahim\Downloads\zero_cms\.eslintrc.json", "JSON with Comments", 0, 0, -3, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -4
+"c:\Users\ibrahim\Downloads\zero_cms\.github\prompts\kural.prompt.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -67, 0, -47, -114
+"c:\Users\ibrahim\Downloads\zero_cms\app\about\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -218, 0, 0, 0, 0, -7, -21, -246
+"c:\Users\ibrahim\Downloads\zero_cms\app\admin2\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -344, 0, 0, 0, 0, -3, -11, -358
+"c:\Users\ibrahim\Downloads\zero_cms\app\admin\admin2-user\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -53, 0, 0, 0, 0, 0, -4, -57
+"c:\Users\ibrahim\Downloads\zero_cms\app\admin\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -2776, 0, 0, 0, 0, -115, -175, -3066
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\admin-users\route.ts", "TypeScript", 0, -24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -27
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\admin2-log\route.ts", "TypeScript", 0, -35, 0, 0, 0, 0, 0, 0, 0, 0, 0, -2, -4, -41
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\blog-posts\route.ts", "TypeScript", 0, -24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -27
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\brands\route.ts", "TypeScript", 0, -24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -27
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\faq\route.ts", "TypeScript", 0, -24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -27
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\messages\route.ts", "TypeScript", 0, -69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -5, -74
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\prices\route.ts", "TypeScript", 0, -24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -27
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\quote\route.ts", "TypeScript", 0, -51, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -8, -60
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\services\route.ts", "TypeScript", 0, -52, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -8, -63
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\services\screen-types\route.ts", "TypeScript", 0, -31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -34
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\site-settings\route.ts", "TypeScript", 0, -40, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -3, -44
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\testimonials\route.ts", "TypeScript", 0, -42, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -11, -54
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\tv-models\route.ts", "TypeScript", 0, -24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -27
+"c:\Users\ibrahim\Downloads\zero_cms\app\api\upload\route.ts", "TypeScript", 0, -23, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -5, -29
+"c:\Users\ibrahim\Downloads\zero_cms\app\aydinlatma-metni\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -87, 0, 0, 0, 0, 0, -2, -89
+"c:\Users\ibrahim\Downloads\zero_cms\app\blog\[id]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -32, 0, 0, 0, 0, -1, -2, -35
+"c:\Users\ibrahim\Downloads\zero_cms\app\blog\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -123, 0, 0, 0, 0, -4, -7, -134
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\altus\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\altus\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\arcelik\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\arcelik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\awox\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\awox\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\axen\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\axen\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\beko\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\beko\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\botech\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\botech\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\dijitsu\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\dijitsu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\elton\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\elton\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\fenoti\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\fenoti\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\finlux\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\finlux\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\grundig\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\grundig\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\hi-level\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\hi-level\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\hisense\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\hisense\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -48, 0, 0, 0, 0, 0, -4, -52
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\hyundai\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\hyundai\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\jvc\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\jvc\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -336, 0, 0, 0, 0, -14, -23, -373
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\lg\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -4, -10, -245
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\nexon\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\nexon\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\next\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\next\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\nordmende\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\nordmende\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\onvo\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\onvo\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -47, 0, 0, 0, 0, -1, -7, -55
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\panasonic\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\panasonic\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -48, 0, 0, 0, 0, 0, -4, -52
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\peaq\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\peaq\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\philips\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\philips\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\preo\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\preo\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\profilo\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\profilo\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\redline\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\redline\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\regal\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\regal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\55nu7100\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -232, 0, 0, 0, 0, -4, -19, -255
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -139, 0, 0, 0, 0, -14, -6, -159
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -336, 0, 0, 0, 0, -14, -23, -373
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\samsung\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\seg\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\seg\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\skytech\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\skytech\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -336, 0, 0, 0, 0, -14, -23, -373
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sony\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -1, -9, -241
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sunny\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\sunny\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -230, 0, 0, 0, 0, -14, -9, -253
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\tcl\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\tcl\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -1, -9, -241
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\telefunken\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\telefunken\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -238, 0, 0, 0, 0, -15, -9, -262
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\telenova\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\telenova\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\toshiba\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\toshiba\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -237, 0, 0, 0, 0, -15, -9, -261
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -358, 0, 0, 0, 0, -15, -24, -397
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\vestel\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -238, 0, 0, 0, 0, -15, -9, -262
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\woon\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\woon\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\xiaomi\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\xiaomi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\yumatu\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -3, -19
+"c:\Users\ibrahim\Downloads\zero_cms\app\brands\yumatu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -14, -9, -254
+"c:\Users\ibrahim\Downloads\zero_cms\app\cerez-politikasi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -53, 0, 0, 0, 0, 0, -2, -55
+"c:\Users\ibrahim\Downloads\zero_cms\app\contact\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -252, 0, 0, 0, 0, -10, -15, -277
+"c:\Users\ibrahim\Downloads\zero_cms\app\faq\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -32, 0, 0, 0, 0, 0, -3, -35
+"c:\Users\ibrahim\Downloads\zero_cms\app\gizlilik-politikasi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -22, 0, 0, 0, 0, 0, -2, -24
+"c:\Users\ibrahim\Downloads\zero_cms\app\globals.css", "PostCSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, -169, 0, 0, -21, -190
+"c:\Users\ibrahim\Downloads\zero_cms\app\kullanim-kosullari\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -29, 0, 0, 0, 0, 0, -2, -31
+"c:\Users\ibrahim\Downloads\zero_cms\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -180, 0, 0, 0, 0, -5, -13, -198
+"c:\Users\ibrahim\Downloads\zero_cms\app\locations\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -244, 0, 0, 0, 0, -12, -21, -277
+"c:\Users\ibrahim\Downloads\zero_cms\app\locations\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -260, 0, 0, 0, 0, -5, -21, -286
+"c:\Users\ibrahim\Downloads\zero_cms\app\locations\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -109, 0, 0, 0, 0, -4, -7, -120
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -90, 0, 0, 0, 0, 0, -5, -95
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\lg\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -71, 0, 0, 0, 0, 0, -6, -77
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -55, 0, 0, 0, 0, 0, -5, -60
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -90, 0, 0, 0, 0, 0, -5, -95
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\samsung\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -71, 0, 0, 0, 0, 0, -6, -77
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -90, 0, 0, 0, 0, 0, -5, -95
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\sony\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -71, 0, 0, 0, 0, 0, -6, -77
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -90, 0, 0, 0, 0, 0, -5, -95
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -257, 0, 0, 0, 0, -10, -17, -284
+"c:\Users\ibrahim\Downloads\zero_cms\app\markalar\vestel\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -71, 0, 0, 0, 0, 0, -6, -77
+"c:\Users\ibrahim\Downloads\zero_cms\app\mobile\about\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -298, 0, 0, 0, 0, -7, -23, -328
+"c:\Users\ibrahim\Downloads\zero_cms\app\mobile\blog\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -204, 0, 0, 0, 0, -10, -14, -228
+"c:\Users\ibrahim\Downloads\zero_cms\app\mobile\brands\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -58, 0, 0, 0, 0, 0, -4, -62
+"c:\Users\ibrahim\Downloads\zero_cms\app\mobile\contact\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -268, 0, 0, 0, 0, -9, -15, -292
+"c:\Users\ibrahim\Downloads\zero_cms\app\mobile\globals.css", "PostCSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, -78, 0, 0, -5, -83
+"c:\Users\ibrahim\Downloads\zero_cms\app\mobile\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -78, 0, 0, 0, 0, -1, -3, -82
+"c:\Users\ibrahim\Downloads\zero_cms\app\mobile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -16, 0, 0, 0, 0, 0, -1, -17
+"c:\Users\ibrahim\Downloads\zero_cms\app\mobile\quote\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -412, 0, 0, 0, 0, -16, -30, -458
+"c:\Users\ibrahim\Downloads\zero_cms\app\mobile\services\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -231, 0, 0, 0, 0, -4, -14, -249
+"c:\Users\ibrahim\Downloads\zero_cms\app\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -33, 0, 0, 0, 0, 0, -2, -35
+"c:\Users\ibrahim\Downloads\zero_cms\app\quote\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -412, 0, 0, 0, 0, -12, -27, -451
+"c:\Users\ibrahim\Downloads\zero_cms\app\services\led-replacement\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -128, 0, 0, 0, 0, -9, -7, -144
+"c:\Users\ibrahim\Downloads\zero_cms\app\services\motherboard-repair\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -129, 0, 0, 0, 0, -9, -7, -145
+"c:\Users\ibrahim\Downloads\zero_cms\app\services\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -180, 0, 0, 0, 0, -10, -11, -201
+"c:\Users\ibrahim\Downloads\zero_cms\app\services\tv-screen-replacement\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -222, 0, 0, 0, 0, -10, -21, -253
+"c:\Users\ibrahim\Downloads\zero_cms\components.json", "JSON", 0, 0, 0, -20, 0, 0, 0, 0, 0, 0, 0, 0, -1, -21
+"c:\Users\ibrahim\Downloads\zero_cms\components\ModelDetail.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -178, 0, 0, 0, 0, -4, -4, -186
+"c:\Users\ibrahim\Downloads\zero_cms\components\contact\ContactForm.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -157, 0, 0, 0, 0, 0, -11, -168
+"c:\Users\ibrahim\Downloads\zero_cms\components\home\BlogPreview.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -141, 0, 0, 0, 0, -12, -8, -161
+"c:\Users\ibrahim\Downloads\zero_cms\components\home\Hero.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -137, 0, 0, 0, 0, -7, -8, -152
+"c:\Users\ibrahim\Downloads\zero_cms\components\home\QuoteSection.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -188, 0, 0, 0, 0, -13, -22, -223
+"c:\Users\ibrahim\Downloads\zero_cms\components\home\Services.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -109, 0, 0, 0, 0, -4, -8, -121
+"c:\Users\ibrahim\Downloads\zero_cms\components\home\Testimonials.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -238, 0, 0, 0, 0, -25, -17, -280
+"c:\Users\ibrahim\Downloads\zero_cms\components\layout\Footer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -104, 0, 0, 0, 0, -4, -9, -117
+"c:\Users\ibrahim\Downloads\zero_cms\components\layout\Header.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -313, 0, 0, 0, 0, -12, -15, -340
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\WhatsAppButton.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -36, 0, 0, 0, 0, 0, -6, -42
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\accordion.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -50, 0, 0, 0, 0, 0, -9, -59
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\alert-dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -127, 0, 0, 0, 0, 0, -15, -142
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\alert.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -53, 0, 0, 0, 0, 0, -7, -60
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\aspect-ratio.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -4, 0, 0, 0, 0, 0, -4, -8
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\avatar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -44, 0, 0, 0, 0, 0, -7, -51
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\badge.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -31, 0, 0, 0, 0, 0, -6, -37
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\breadcrumb.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -105, 0, 0, 0, 0, 0, -11, -116
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -51, 0, 0, 0, 0, 0, -6, -57
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\calendar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -61, 0, 0, 0, 0, 0, -6, -67
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\card.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -78, 0, 0, 0, 0, 0, -9, -87
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\carousel.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -232, 0, 0, 0, 0, 0, -31, -263
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\chart.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -327, 0, 0, 0, 0, -2, -37, -366
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\checkbox.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -26, 0, 0, 0, 0, 0, -5, -31
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\collapsible.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -6, 0, 0, 0, 0, 0, -6, -12
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\command.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -137, 0, 0, 0, 0, 0, -19, -156
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\context-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -182, 0, 0, 0, 0, 0, -19, -201
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -109, 0, 0, 0, 0, 0, -14, -123
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\drawer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -105, 0, 0, 0, 0, 0, -14, -119
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\dropdown-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -182, 0, 0, 0, 0, 0, -19, -201
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\form.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -154, 0, 0, 0, 0, 0, -26, -180
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\hover-card.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -23, 0, 0, 0, 0, 0, -7, -30
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\input-otp.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -63, 0, 0, 0, 0, 0, -9, -72
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\input.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -21, 0, 0, 0, 0, 0, -5, -26
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\label.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -21, 0, 0, 0, 0, 0, -6, -27
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\menubar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -217, 0, 0, 0, 0, 0, -20, -237
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\navigation-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -117, 0, 0, 0, 0, 0, -12, -129
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\pagination.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -107, 0, 0, 0, 0, 0, -11, -118
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\popover.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -25, 0, 0, 0, 0, 0, -7, -32
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\progress.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -24, 0, 0, 0, 0, 0, -5, -29
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\radio-group.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -39, 0, 0, 0, 0, 0, -6, -45
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\resizable.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -39, 0, 0, 0, 0, 0, -7, -46
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\scroll-area.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -43, 0, 0, 0, 0, 0, -6, -49
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\select.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -146, 0, 0, 0, 0, 0, -15, -161
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\separator.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -27, 0, 0, 0, 0, 0, -5, -32
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\sheet.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -125, 0, 0, 0, 0, 0, -16, -141
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\skeleton.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -13, 0, 0, 0, 0, 0, -3, -16
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\slider.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -24, 0, 0, 0, 0, 0, -5, -29
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\sonner.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -26, 0, 0, 0, 0, 0, -6, -32
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\switch.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -25, 0, 0, 0, 0, 0, -5, -30
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\table.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -107, 0, 0, 0, 0, 0, -11, -118
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\tabs.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -48, 0, 0, 0, 0, 0, -8, -56
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\textarea.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -20, 0, 0, 0, 0, 0, -5, -25
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\toast.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -116, 0, 0, 0, 0, 0, -14, -130
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\toaster.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -32, 0, 0, 0, 0, 0, -4, -36
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\toggle-group.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -52, 0, 0, 0, 0, 0, -10, -62
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\toggle.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -39, 0, 0, 0, 0, 0, -7, -46
+"c:\Users\ibrahim\Downloads\zero_cms\components\ui\tooltip.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -23, 0, 0, 0, 0, 0, -8, -31
+"c:\Users\ibrahim\Downloads\zero_cms\create-pages.js", "JavaScript", -35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -4, -10, -49
+"c:\Users\ibrahim\Downloads\zero_cms\create-turkish-pages.js", "JavaScript", -306, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -9, -25, -340
+"c:\Users\ibrahim\Downloads\zero_cms\data\admin2-log.json", "JSON", 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\data\admin2-user.json", "JSON", 0, 0, 0, -4, 0, 0, 0, 0, 0, 0, 0, 0, 0, -4
+"c:\Users\ibrahim\Downloads\zero_cms\data\blog-posts.json", "JSON", 0, 0, 0, -72, 0, 0, 0, 0, 0, 0, 0, 0, 0, -72
+"c:\Users\ibrahim\Downloads\zero_cms\data\brands.json", "JSON", 0, 0, 0, -186, 0, 0, 0, 0, 0, 0, 0, 0, 0, -186
+"c:\Users\ibrahim\Downloads\zero_cms\data\faq.json", "JSON", 0, 0, 0, -27, 0, 0, 0, 0, 0, 0, 0, 0, 0, -27
+"c:\Users\ibrahim\Downloads\zero_cms\data\messages.json", "JSON", 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\data\prices.json", "JSON", 0, 0, 0, -527, 0, 0, 0, 0, 0, 0, 0, 0, 0, -527
+"c:\Users\ibrahim\Downloads\zero_cms\data\quotes.json", "JSON", 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\data\screen-types.json", "JSON", 0, 0, 0, -20, 0, 0, 0, 0, 0, 0, 0, 0, 0, -20
+"c:\Users\ibrahim\Downloads\zero_cms\data\services.json", "JSON", 0, 0, 0, -78, 0, 0, 0, 0, 0, 0, 0, 0, 0, -78
+"c:\Users\ibrahim\Downloads\zero_cms\data\site-settings.json", "JSON", 0, 0, 0, -150, 0, 0, 0, 0, 0, 0, 0, 0, 0, -150
+"c:\Users\ibrahim\Downloads\zero_cms\data\testimonials.json", "JSON", 0, 0, 0, -82, 0, 0, 0, 0, 0, 0, 0, 0, -1, -83
+"c:\Users\ibrahim\Downloads\zero_cms\data\tv-screens.json", "JSON", 0, 0, 0, -8552, 0, 0, 0, 0, 0, 0, 0, 0, 0, -8552
+"c:\Users\ibrahim\Downloads\zero_cms\database\setup.sql", "MS SQL", 0, 0, 0, 0, 0, 0, 0, 0, -104, 0, 0, -16, -13, -133
+"c:\Users\ibrahim\Downloads\zero_cms\fix_peaq_brand.py", "Python", 0, 0, 0, 0, 0, 0, 0, -8, 0, 0, 0, 0, -3, -11
+"c:\Users\ibrahim\Downloads\zero_cms\generate-pages.js", "JavaScript", -76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -6, -83
+"c:\Users\ibrahim\Downloads\zero_cms\generate-sitemap.js", "JavaScript", -99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -10, -109
+"c:\Users\ibrahim\Downloads\zero_cms\generate-turkish-pages.js", "JavaScript", -80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -2, -9, -91
+"c:\Users\ibrahim\Downloads\zero_cms\hooks\use-counter.ts", "TypeScript", 0, -31, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -8, -40
+"c:\Users\ibrahim\Downloads\zero_cms\hooks\use-toast.ts", "TypeScript", 0, -157, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -32, -192
+"c:\Users\ibrahim\Downloads\zero_cms\lib\PricesContext.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, -66, 0, 0, 0, 0, -4, -12, -82
+"c:\Users\ibrahim\Downloads\zero_cms\lib\sitePrices.ts", "TypeScript", 0, -23, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -1, -27
+"c:\Users\ibrahim\Downloads\zero_cms\lib\utils.ts", "TypeScript", 0, -5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -2, -7
+"c:\Users\ibrahim\Downloads\zero_cms\middleware.ts", "TypeScript", 0, -23, 0, 0, 0, 0, 0, 0, 0, 0, 0, -2, -6, -31
+"c:\Users\ibrahim\Downloads\zero_cms\next.config.js", "JavaScript", -7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -3, -11
+"c:\Users\ibrahim\Downloads\zero_cms\package-lock.json", "JSON", 0, 0, 0, -7119, 0, 0, 0, 0, 0, 0, 0, 0, -1, -7120
+"c:\Users\ibrahim\Downloads\zero_cms\package.json", "JSON", 0, 0, 0, -71, 0, 0, 0, 0, 0, 0, 0, 0, 0, -71
+"c:\Users\ibrahim\Downloads\zero_cms\page-template.js", "JavaScript", -288, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -3, -291
+"c:\Users\ibrahim\Downloads\zero_cms\postcss.config.js", "JavaScript", -6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -7
+"c:\Users\ibrahim\Downloads\zero_cms\public\brands\hisense.svg", "XML", 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\public\brands\lg.svg", "XML", 0, 0, 0, 0, 0, -10, 0, 0, 0, 0, 0, 0, 0, -10
+"c:\Users\ibrahim\Downloads\zero_cms\public\brands\panasonic.svg", "XML", 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\public\brands\philips.svg", "XML", 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\public\brands\placeholder.svg", "XML", 0, 0, 0, 0, 0, -4, 0, 0, 0, 0, 0, 0, 0, -4
+"c:\Users\ibrahim\Downloads\zero_cms\public\brands\samsung.svg", "XML", 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\public\brands\sony.svg", "XML", 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\public\brands\tcl.svg", "XML", 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\public\brands\vestel.svg", "XML", 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, -1
+"c:\Users\ibrahim\Downloads\zero_cms\public\sitemap.xml", "XML", 0, 0, 0, 0, 0, -1035, 0, 0, 0, 0, 0, -3, -2, -1040
+"c:\Users\ibrahim\Downloads\zero_cms\public\uploads\1753123098726-z7ciou.svg", "XML", 0, 0, 0, 0, 0, -364, 0, 0, 0, 0, 0, -38, -27, -429
+"c:\Users\ibrahim\Downloads\zero_cms\tailwind.config.ts", "TypeScript", 0, -89, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -2, -91
+"c:\Users\ibrahim\Downloads\zero_cms\tsconfig.json", "JSON with Comments", 0, 0, -27, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -28
+"c:\Users\ibrahim\Downloads\zero_cms\turkish-page-template.js", "JavaScript", -287, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -2, -289
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\.eslintrc.json", "JSON with Comments", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\.github\prompts\kural.prompt.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 47, 114
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\about\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 243, 0, 0, 0, 0, 8, 22, 273
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\admin2\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 344, 0, 0, 0, 0, 3, 11, 358
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\admin\admin2-user\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 53, 0, 0, 0, 0, 0, 4, 57
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\admin\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 3342, 0, 0, 0, 0, 122, 200, 3664
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\admin-users\route.ts", "TypeScript", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\admin2-log\route.ts", "TypeScript", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 41
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\blog-posts\route.ts", "TypeScript", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\brands\route.ts", "TypeScript", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\faq\route.ts", "TypeScript", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\messages\route.ts", "TypeScript", 0, 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 74
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\prices\route.ts", "TypeScript", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\quote\route.ts", "TypeScript", 0, 51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8, 60
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\services\route.ts", "TypeScript", 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 63
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\services\screen-types\route.ts", "TypeScript", 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 34
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\site-settings\route.ts", "TypeScript", 0, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 44
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\testimonials\route.ts", "TypeScript", 0, 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 25, 115
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\tv-models\route.ts", "TypeScript", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\api\upload\route.ts", "TypeScript", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 29
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\aydinlatma-metni\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 87, 0, 0, 0, 0, 0, 2, 89
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\blog\[id]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 1, 2, 35
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\blog\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 123, 0, 0, 0, 0, 4, 7, 134
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\altus\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\altus\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\arcelik\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\arcelik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\awox\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\awox\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\axen\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\axen\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\beko\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\beko\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\botech\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\botech\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\dijitsu\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\dijitsu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\elton\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\elton\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\fenoti\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\fenoti\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\finlux\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\finlux\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\grundig\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\grundig\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\hi-level\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\hi-level\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\hisense\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\hisense\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 5, 53
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\hyundai\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\hyundai\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\jvc\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\jvc\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 336, 0, 0, 0, 0, 14, 24, 374
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\lg\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 4, 11, 246
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\nexon\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\nexon\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\next\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\next\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\nordmende\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\nordmende\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\onvo\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\onvo\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 1, 8, 56
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\panasonic\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\panasonic\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 5, 53
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\peaq\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\peaq\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\philips\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\philips\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\preo\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\preo\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\profilo\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\profilo\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\redline\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\redline\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\regal\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\regal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\55nu7100\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 232, 0, 0, 0, 0, 4, 20, 256
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 139, 0, 0, 0, 0, 14, 6, 159
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 336, 0, 0, 0, 0, 14, 24, 374
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\samsung\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\seg\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\seg\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\skytech\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\skytech\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 336, 0, 0, 0, 0, 14, 24, 374
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sony\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 1, 10, 242
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sunny\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\sunny\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 230, 0, 0, 0, 0, 14, 10, 254
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\tcl\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\tcl\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 1, 10, 242
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\telefunken\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\telefunken\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 238, 0, 0, 0, 0, 15, 10, 263
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\telenova\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\telenova\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\toshiba\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\toshiba\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 237, 0, 0, 0, 0, 15, 10, 262
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 358, 0, 0, 0, 0, 15, 25, 398
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\vestel\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 238, 0, 0, 0, 0, 15, 10, 263
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\woon\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\woon\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\xiaomi\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\xiaomi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\yumatu\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\brands\yumatu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 14, 10, 255
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\cerez-politikasi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 53, 0, 0, 0, 0, 0, 2, 55
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\contact\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 252, 0, 0, 0, 0, 10, 16, 278
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\faq\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 3, 35
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\gizlilik-politikasi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 2, 24
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\globals.css", "PostCSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 0, 0, 21, 190
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\kullanim-kosullari\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 29, 0, 0, 0, 0, 0, 2, 31
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 182, 0, 0, 0, 0, 5, 13, 200
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\locations\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 244, 0, 0, 0, 0, 12, 22, 278
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\locations\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 260, 0, 0, 0, 0, 5, 22, 287
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\locations\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 109, 0, 0, 0, 0, 4, 7, 120
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\arcelik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 126, 0, 0, 0, 0, 0, 13, 139
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\awox\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 333, 0, 0, 0, 0, 9, 32, 374
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\awox\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 326, 0, 0, 0, 0, 6, 29, 361
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\axen\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 346, 0, 0, 0, 0, 9, 32, 387
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\axen\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 339, 0, 0, 0, 0, 6, 29, 374
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\beko\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 385, 0, 0, 0, 0, 9, 32, 426
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\beko\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 378, 0, 0, 0, 0, 6, 29, 413
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\botech\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 328, 0, 0, 0, 0, 9, 32, 369
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\botech\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 321, 0, 0, 0, 0, 6, 29, 356
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\finlux\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 332, 0, 0, 0, 0, 9, 32, 373
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\finlux\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 325, 0, 0, 0, 0, 6, 29, 360
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\grundig\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 397, 0, 0, 0, 0, 10, 33, 440
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\grundig\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 379, 0, 0, 0, 0, 6, 29, 414
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\hi-level\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 334, 0, 0, 0, 0, 5, 31, 370
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\hisense\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 267, 0, 0, 0, 0, 8, 27, 302
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\jvc\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 126, 0, 0, 0, 0, 0, 13, 139
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 316, 0, 0, 0, 0, 12, 27, 355
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 90, 0, 0, 0, 0, 0, 6, 96
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\lg\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 657, 0, 0, 0, 0, 6, 29, 692
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\next\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 342, 0, 0, 0, 0, 9, 32, 383
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\next\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 335, 0, 0, 0, 0, 6, 29, 370
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 55, 0, 0, 0, 0, 0, 6, 61
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\panasonic\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 267, 0, 0, 0, 0, 8, 27, 302
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\philips\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 549, 0, 0, 0, 0, 9, 32, 590
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\philips\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 542, 0, 0, 0, 0, 6, 29, 577
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\profilo\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 338, 0, 0, 0, 0, 9, 32, 379
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\profilo\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 331, 0, 0, 0, 0, 6, 29, 366
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\regal\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 371, 0, 0, 0, 0, 9, 32, 412
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\regal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 364, 0, 0, 0, 0, 6, 29, 399
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 932, 0, 0, 0, 0, 10, 33, 975
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 90, 0, 0, 0, 0, 0, 6, 96
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\samsung\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 914, 0, 0, 0, 0, 6, 29, 949
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 479, 0, 0, 0, 0, 9, 32, 520
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 90, 0, 0, 0, 0, 0, 6, 96
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sony\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 472, 0, 0, 0, 0, 6, 29, 507
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sunny\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 350, 0, 0, 0, 0, 9, 32, 391
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\sunny\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 343, 0, 0, 0, 0, 6, 29, 378
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\tcl\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 427, 0, 0, 0, 0, 9, 38, 474
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\telefunken\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 337, 0, 0, 0, 0, 9, 32, 378
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\telefunken\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 330, 0, 0, 0, 0, 6, 29, 365
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\toshiba\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 391, 0, 0, 0, 0, 9, 32, 432
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\toshiba\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 384, 0, 0, 0, 0, 6, 29, 419
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 439, 0, 0, 0, 0, 9, 32, 480
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\adalar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\arnavutkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\atasehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\avcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\bagcilar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\bahcelievler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\bakirkoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\basaksehir\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\bayrampasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\besiktas\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\beykoz\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\beylikduzu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\beyoglu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\buyukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\catalca\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\cekmekoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\esenler\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\esenyurt\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\eyupsultan\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\fatih\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\gaziosmanpasa\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\gungorent\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\kadikoy\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\kagithane\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\kartal\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\kucukcekmece\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\maltepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 90, 0, 0, 0, 0, 0, 6, 96
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\pendik\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\sancaktepe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\sariyer\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\sile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\silivri\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\sisli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\sultanbeyli\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\sultangazi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\tuzla\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\umraniye\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\uskudar\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\istanbul\zeytinburnu\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 257, 0, 0, 0, 0, 10, 18, 285
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\vestel\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 432, 0, 0, 0, 0, 6, 29, 467
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\xiaomi\[model]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 326, 0, 0, 0, 0, 9, 32, 367
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\markalar\xiaomi\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 319, 0, 0, 0, 0, 6, 29, 354
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\mobile\about\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 298, 0, 0, 0, 0, 7, 23, 328
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\mobile\blog\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 204, 0, 0, 0, 0, 10, 14, 228
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\mobile\brands\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 58, 0, 0, 0, 0, 0, 4, 62
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\mobile\contact\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 268, 0, 0, 0, 0, 9, 15, 292
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\mobile\globals.css", "PostCSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 78, 0, 0, 5, 83
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\mobile\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 78, 0, 0, 0, 0, 1, 3, 82
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\mobile\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 1, 17
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\mobile\quote\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 412, 0, 0, 0, 0, 16, 30, 458
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\mobile\services\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 4, 14, 249
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 2, 35
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\quote\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 412, 0, 0, 0, 0, 12, 27, 451
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\services\led-replacement\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 128, 0, 0, 0, 0, 9, 7, 144
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\services\motherboard-repair\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 129, 0, 0, 0, 0, 9, 7, 145
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\services\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 180, 0, 0, 0, 0, 10, 11, 201
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\services\tv-screen-replacement\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 222, 0, 0, 0, 0, 10, 21, 253
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\app\ucretsiz-teklif\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 415, 0, 0, 0, 0, 13, 28, 456
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components.json", "JSON", 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 1, 21
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ModelDetail.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 186, 0, 0, 0, 0, 4, 5, 195
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\contact\ContactForm.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 157, 0, 0, 0, 0, 0, 11, 168
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\home\BeforeAfterGallery.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\home\BlogPreview.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 141, 0, 0, 0, 0, 12, 8, 161
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\home\CommonProblemsTable.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\home\Hero.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 137, 0, 0, 0, 0, 7, 8, 152
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\home\QuoteSection.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 188, 0, 0, 0, 0, 13, 22, 223
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\home\Services.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 109, 0, 0, 0, 0, 4, 8, 121
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\home\Testimonials.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 263, 0, 0, 0, 0, 28, 16, 307
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\layout\Footer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 103, 0, 0, 0, 0, 4, 9, 116
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\layout\Header-fixed.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 332, 0, 0, 0, 0, 15, 23, 370
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\layout\Header-new.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 223, 0, 0, 0, 0, 10, 19, 252
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\layout\Header-old.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 256, 0, 0, 0, 0, 15, 15, 286
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\layout\Header.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 222, 0, 0, 0, 0, 11, 20, 253
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\ExitIntentPopup.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\TimeBasedPopup.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\WhatsAppButton.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 53, 0, 0, 0, 0, 0, 10, 63
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\accordion.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 50, 0, 0, 0, 0, 0, 9, 59
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\alert-dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 127, 0, 0, 0, 0, 0, 15, 142
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\alert.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 53, 0, 0, 0, 0, 0, 7, 60
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\aspect-ratio.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 4, 8
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\avatar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 7, 51
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\badge.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 31, 0, 0, 0, 0, 0, 6, 37
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\breadcrumb.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 105, 0, 0, 0, 0, 0, 11, 116
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 51, 0, 0, 0, 0, 0, 6, 57
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\calendar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 61, 0, 0, 0, 0, 0, 6, 67
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\card.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 78, 0, 0, 0, 0, 0, 9, 87
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\carousel.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 232, 0, 0, 0, 0, 0, 31, 263
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\chart.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 327, 0, 0, 0, 0, 2, 37, 366
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\checkbox.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 5, 31
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\collapsible.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 6, 12
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\command.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 137, 0, 0, 0, 0, 0, 19, 156
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\context-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 182, 0, 0, 0, 0, 0, 19, 201
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 109, 0, 0, 0, 0, 0, 14, 123
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\drawer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 105, 0, 0, 0, 0, 0, 14, 119
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\dropdown-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 182, 0, 0, 0, 0, 0, 19, 201
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\form.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 154, 0, 0, 0, 0, 0, 26, 180
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\hover-card.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 0, 7, 30
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\input-otp.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 63, 0, 0, 0, 0, 0, 9, 72
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\input.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 0, 0, 5, 26
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\label.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 0, 0, 6, 27
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\menubar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 217, 0, 0, 0, 0, 0, 20, 237
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\navigation-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 117, 0, 0, 0, 0, 0, 12, 129
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\pagination.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 107, 0, 0, 0, 0, 0, 11, 118
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\popover.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 25, 0, 0, 0, 0, 0, 7, 32
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\progress.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 24, 0, 0, 0, 0, 0, 5, 29
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\radio-group.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 39, 0, 0, 0, 0, 0, 6, 45
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\resizable.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 39, 0, 0, 0, 0, 0, 7, 46
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\scroll-area.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 43, 0, 0, 0, 0, 0, 6, 49
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\select.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 146, 0, 0, 0, 0, 0, 15, 161
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\separator.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 0, 5, 32
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\sheet.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 125, 0, 0, 0, 0, 0, 16, 141
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\skeleton.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 3, 16
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\slider.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 24, 0, 0, 0, 0, 0, 5, 29
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\sonner.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 6, 32
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\switch.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 25, 0, 0, 0, 0, 0, 5, 30
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\table.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 107, 0, 0, 0, 0, 0, 11, 118
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\tabs.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 8, 56
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\textarea.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 5, 25
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\toast.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 116, 0, 0, 0, 0, 0, 14, 130
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\toaster.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 4, 36
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\toggle-group.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 52, 0, 0, 0, 0, 0, 10, 62
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\toggle.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 39, 0, 0, 0, 0, 0, 7, 46
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\components\ui\tooltip.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 0, 8, 31
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\create-extra-brands.js", "JavaScript", 179, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 190
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\create-pages.js", "JavaScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 10, 49
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\create-turkish-pages.js", "JavaScript", 306, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 25, 340
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\admin2-log.json", "JSON", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\admin2-user.json", "JSON", 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\blog-posts.json", "JSON", 0, 0, 0, 104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 104
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\brands.json", "JSON", 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 186
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\faq.json", "JSON", 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\messages.json", "JSON", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\prices.json", "JSON", 0, 0, 0, 527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 527
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\quotes.json", "JSON", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\screen-types.json", "JSON", 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\services.json", "JSON", 0, 0, 0, 78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 78
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\site-settings.json", "JSON", 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 186
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\testimonials.json", "JSON", 0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 82
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\data\tv-screens.json", "JSON", 0, 0, 0, 8552, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8552
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\database\setup.sql", "MS SQL", 0, 0, 0, 0, 0, 0, 0, 0, 104, 0, 0, 16, 13, 133
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\debug-tcl-brands.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\debug-tcl.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\fix_peaq_brand.py", "Python", 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 3, 11
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\generate-pages.js", "JavaScript", 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 83
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\generate-sitemap.js", "JavaScript", 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 109
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\generate-turkish-pages.js", "JavaScript", 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9, 91
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\hooks\use-counter.ts", "TypeScript", 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8, 40
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\hooks\use-popup-manager.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\hooks\use-toast.ts", "TypeScript", 0, 157, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 32, 192
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\lib\PricesContext.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 66, 0, 0, 0, 0, 4, 12, 82
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\lib\sitePrices.ts", "TypeScript", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 27
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\lib\utils.ts", "TypeScript", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\middleware.ts", "TypeScript", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 31
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\next.config.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 11
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\package-lock.json", "JSON", 0, 0, 0, 7119, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7120
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\package.json", "JSON", 0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 71
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\page-template.js", "JavaScript", 288, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 291
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\postcss.config.js", "JavaScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\debug.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\altus.svg", "XML", 0, 0, 0, 0, 0, 306, 0, 0, 0, 0, 0, 0, 0, 306
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\arcelik.svg", "XML", 0, 0, 0, 0, 0, 3950, 0, 0, 0, 0, 0, 0, 0, 3950
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\awox.svg", "XML", 0, 0, 0, 0, 0, 288, 0, 0, 0, 0, 0, 0, 0, 288
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\beko.svg", "XML", 0, 0, 0, 0, 0, 170, 0, 0, 0, 0, 0, 0, 0, 170
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\elton.svg", "XML", 0, 0, 0, 0, 0, 208, 0, 0, 0, 0, 0, 0, 0, 208
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\finlux.svg", "XML", 0, 0, 0, 0, 0, 347, 0, 0, 0, 0, 0, 0, 0, 347
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\grundig.svg", "XML", 0, 0, 0, 0, 0, 267, 0, 0, 0, 0, 0, 0, 0, 267
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\hi-level.svg", "XML", 0, 0, 0, 0, 0, 645, 0, 0, 0, 0, 0, 0, 0, 645
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\hisense.svg", "XML", 0, 0, 0, 0, 0, 244, 0, 0, 0, 0, 0, 0, 0, 244
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\hyundai.svg", "XML", 0, 0, 0, 0, 0, 457, 0, 0, 0, 0, 0, 0, 0, 457
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\jvc.svg", "XML", 0, 0, 0, 0, 0, 204, 0, 0, 0, 0, 0, 0, 0, 204
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\lg.svg", "XML", 0, 0, 0, 0, 0, 210, 0, 0, 0, 0, 0, 0, 0, 210
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\nexon.svg", "XML", 0, 0, 0, 0, 0, 213, 0, 0, 0, 0, 0, 0, 0, 213
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\next.svg", "XML", 0, 0, 0, 0, 0, 143, 0, 0, 0, 0, 0, 0, 0, 143
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\nordmende.svg", "XML", 0, 0, 0, 0, 0, 329, 0, 0, 0, 0, 0, 0, 0, 329
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\panasonic.svg", "XML", 0, 0, 0, 0, 0, 532, 0, 0, 0, 0, 0, 0, 0, 532
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\redline.svg", "XML", 0, 0, 0, 0, 0, 446, 0, 0, 0, 0, 0, 0, 0, 446
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\regal.svg", "XML", 0, 0, 0, 0, 0, 348, 0, 0, 0, 0, 0, 0, 0, 348
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\samsung.svg", "XML", 0, 0, 0, 0, 0, 402, 0, 0, 0, 0, 0, 0, 0, 402
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\seg.svg", "XML", 0, 0, 0, 0, 0, 266, 0, 0, 0, 0, 0, 0, 0, 266
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\sony.svg", "XML", 0, 0, 0, 0, 0, 198, 0, 0, 0, 0, 0, 0, 0, 198
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\sunny.svg", "XML", 0, 0, 0, 0, 0, 283, 0, 0, 0, 0, 0, 0, 0, 283
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\tcl.svg", "XML", 0, 0, 0, 0, 0, 260, 0, 0, 0, 0, 0, 0, 0, 260
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\toshiba.svg", "XML", 0, 0, 0, 0, 0, 361, 0, 0, 0, 0, 0, 0, 0, 361
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\vestel.svg", "XML", 0, 0, 0, 0, 0, 426, 0, 0, 0, 0, 0, 0, 0, 426
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\woon.svg", "XML", 0, 0, 0, 0, 0, 193, 0, 0, 0, 0, 0, 0, 0, 193
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\xiaomi.svg", "XML", 0, 0, 0, 0, 0, 310, 0, 0, 0, 0, 0, 0, 0, 310
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\marka_logo\yumatu.svg", "XML", 0, 0, 0, 0, 0, 287, 0, 0, 0, 0, 0, 0, 0, 287
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\public\sitemap.xml", "XML", 0, 0, 0, 0, 0, 1035, 0, 0, 0, 0, 0, 3, 2, 1040
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\tailwind.config.ts", "TypeScript", 0, 89, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 91
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\test-api.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\tsconfig.json", "JSON with Comments", 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 28
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\turkish-page-template.js", "JavaScript", 287, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 289
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\update-all-brands-fixed.js", "JavaScript", 740, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 20, 768
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\update-all-brands.js", "JavaScript", 735, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 19, 761
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\update-lg-models.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 8, 25
+"c:\Users\ibrahim\Downloads\zero_seo_uyuma_gecis-main\update-lg.js", "JavaScript", 708, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 14, 727
+"Total", "-", 2373, 45, 0, 68, 0, 11908, 17822, 0, 0, 0, 0, 362, 1769, 34347

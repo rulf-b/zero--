@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2025-08-05T22:29:15.311Z",
+    "user": "admin2",
+    "action": "Başvuru Sil",
+    "details": {
+      "id": "1754432949338"
+    },
+    "ip": ""
+  },
+  {
+    "timestamp": "2025-08-05T22:18:06.254Z",
+    "user": "admin2",
+    "action": "Mesaj Sil",
+    "details": {
+      "id": "1754322587596"
+    },
+    "ip": ""
+  },
+  {
+    "timestamp": "2025-08-05T22:18:04.515Z",
+    "user": "admin2",
+    "action": "Mesaj Sil",
+    "details": {
+      "id": "1754322592062"
+    },
+    "ip": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "LCD/LED Ekranlar",
+    "description": "En yaygın tip, uygun fiyatlı değişim seçenekleri",
+    "priceRange": "₺800 - ₺1200"
+  },
+  {
+    "id": "2",
+    "name": "OLED Ekranlar",
+    "description": "Üstün kalite, derin siyahlar, canlı renkler",
+    "priceRange": "₺960 - ₺1600"
+  },
+  {
+    "id": "3",
+    "name": "QLED Ekranlar",
+    "description": "Kuantum nokta teknolojisi, parlak ve renkli",
+    "priceRange": "₺880 - ₺1440"
+  }
+] 

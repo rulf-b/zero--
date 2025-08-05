@@ -1,0 +1,208 @@
+{
+  "companyName": "Zero TV Servisi",
+  "phone": "+90 552 558 79 05",
+  "email": "zero@ledtvpaneli.com",
+  "address": "İstanbul, Türkiye",
+  "whatsapp": "+90 552 558 79 05",
+  "workingHours": [
+    {
+      "day": "Pazartesi",
+      "hours": "08:00 - 18:00"
+    },
+    {
+      "day": "Salı",
+      "hours": "08:00 - 18:00"
+    },
+    {
+      "day": "Çarşamba",
+      "hours": "08:00 - 18:00"
+    },
+    {
+      "day": "Perşembe",
+      "hours": "08:00 - 18:00"
+    },
+    {
+      "day": "Cuma",
+      "hours": "08:00 - 18:00"
+    },
+    {
+      "day": "Cumartesi",
+      "hours": "08:00 - 17:00"
+    },
+    {
+      "day": "Pazar",
+      "hours": "Kapalı"
+    }
+  ],
+  "description": "TV tamir ve servis hizmetleri",
+  "homepageHero": {
+    "title": "Profesyonel TV Ekran Tamiri Hizmetleri",
+    "subtitle": "Uzman TV ekran değişimi, LED panel tamiri ve anakart hizmetleri. Tüm büyük TV markaları için hızlı ve garantili onarım.",
+    "stats": {
+      "years": 10,
+      "yearsLabel": "Yıl Deneyim",
+      "repairedTVs": 5000,
+      "repairedTVsLabel": "Onarılan TV",
+      "support": "7/24",
+      "supportLabel": "Destek"
+    },
+    "sliderImages": [
+      "/screens/1.jpeg",
+      "/screens/2.jpeg",
+      "/screens/3.jpeg",
+      "/screens/5.jpeg",
+      "/screens/6.jpeg",
+      "/screens/7.jpeg",
+      "/screens/8.jpeg",
+      "/screens/9.jpeg",
+      "/screens/10.jpeg"
+    ]
+  },
+  "testimonialStats": {
+    "tvsCount": 5000,
+    "tvsLabel": "Onarılan TV",
+    "tvsSub": "Tüm marka ve modeller",
+    "lastModel": "En son: Samsung 55NU7100",
+    "rating": "4.9/5",
+    "ratingLabel": "Ortalama Puan",
+    "ratingSub": "Google & WhatsApp yorumları",
+    "ratingQuote": "Harika hizmet, 2 saatte TV'im yenilendi!",
+    "ratingQuoteAuthor": "Ahmet Y.",
+    "successRate": 97,
+    "successLabel": "Başarı Oranı",
+    "successSub": "Yüksek müşteri memnuniyeti",
+    "successQuote": "Tüm süreç çok şeffaf ve güven vericiydi. %100 memnuniyet!",
+    "warranty": 12,
+    "warrantyLabel": "Garanti Süresi",
+    "warrantySub": "Tüm işlemlerde geçerli",
+    "warrantyQuote": "Panel değişiminden sonra 1 yıl boyunca hiç sorun yaşamadım!"
+  },
+  "testimonials": [
+    {
+      "name": "Ahmet Yılmaz",
+      "location": "İstanbul, Kadıköy",
+      "rating": 5,
+      "text": "Samsung 55\" TV ekranım tamamen kırılmıştı. Zero Teknik sadece 2 saatte mükemmel yeni bir panelle değiştirdi. Kalite harika ve fiyat çok makuldü.",
+      "service": "TV Ekran Değişimi",
+      "date": "2 hafta önce"
+    },
+    {
+      "name": "Elif Kaya",
+      "location": "İstanbul, Şişli",
+      "rating": 5,
+      "text": "LG TV'mde arka aydınlatma sorunu vardı. Ekip profesyonel, dakik ve mükemmel şekilde tamir etti. 12 ay garanti içimi rahatlattı.",
+      "service": "LED Panel Tamiri",
+      "date": "1 ay önce"
+    },
+    {
+      "name": "Mehmet Öztürk",
+      "location": "İstanbul, Üsküdar",
+      "rating": 5,
+      "text": "Harika hizmet! Sony TV'min anakartı arızalıydı, hızlıca teşhis edip tamir ettiler. Çok dürüst fiyatlandırma ve mükemmel müşteri hizmeti.",
+      "service": "Anakart Tamiri",
+      "date": "3 hafta önce"
+    },
+    {
+      "name": "Fatma Demir",
+      "location": "İstanbul, Beşiktaş",
+      "rating": 5,
+      "text": "Philips TV'min ekranı çizilmişti. Çok hızlı ve profesyonel hizmet aldım. Fiyatlar da çok uygun. Kesinlikle tavsiye ederim.",
+      "service": "TV Ekran Değişimi",
+      "date": "1 hafta önce"
+    },
+    {
+      "name": "Ali Korkmaz",
+      "location": "İstanbul, Bakırköy",
+      "rating": 5,
+      "text": "Vestel TV'min LED paneli arızalıydı. Aynı gün içinde tamir ettiler. Çok memnun kaldım, teşekkürler.",
+      "service": "LED Panel Tamiri",
+      "date": "2 ay önce"
+    }
+  ],
+  "about": {
+    "title": "Zero Teknik Hakkında",
+    "subtitle": "TV Tamir Uzmanları",
+    "description": "10 yılı aşkın süredir İstanbul'un güvenilir TV tamir servisiyiz. Tüm TV tamir ihtiyaçlarınız için profesyonel, güvenilir ve uygun fiyatlı çözümler sunuyoruz.",
+    "image": "/uploads/1754083092144-q9tjv3.png",
+    "stats": [
+      {
+        "number": "10+",
+        "label": "Yıllık Deneyim"
+      },
+      {
+        "number": "5.000+",
+        "label": "Onarılan TV"
+      },
+      {
+        "number": "%99",
+        "label": "Başarı Oranı"
+      },
+      {
+        "number": "4.9/5",
+        "label": "Müşteri Puanı"
+      }
+    ],
+    "valuesTitle": "Değerlerimiz",
+    "valuesSubtitle": "Tüm işlerimizde bizi yönlendiren ilkeler",
+    "values": [
+      {
+        "title": "Kalite Garantisi",
+        "description": "Sadece yüksek kaliteli parçalar kullanıyor ve tüm onarımlarımıza kapsamlı garanti sunuyoruz."
+      },
+      {
+        "title": "Hızlı Servis",
+        "description": "Aynı gün servis imkanı, çoğu onarım 2-4 saat içinde tamamlanır."
+      },
+      {
+        "title": "Uzman Teknisyenler",
+        "description": "TV tamiri ve elektronik alanında geniş deneyime sahip sertifikalı profesyoneller."
+      },
+      {
+        "title": "Müşteri Memnuniyeti",
+        "description": "5.000+ mutlu müşteri, 4.9/5 ortalama puan ve olumlu yorumlar."
+      }
+    ],
+    "storyTitle": "Hikayemiz",
+    "story": [
+      "Zero Teknik, 2014 yılında basit bir misyonla kuruldu: İstanbul halkına dürüst, profesyonel ve uygun fiyatlı TV tamir hizmeti sunmak. Küçük bir tamir atölyesi olarak başlayan yolculuğumuz, şehrin en güvenilir TV tamir servisine dönüştü.",
+      "Yıllar içinde, eski CRT modellerden en yeni OLED ve QLED ekranlara kadar binlerce TV tamir ettik. Kaliteye, şeffaflığa ve müşteri memnuniyetine olan bağlılığımız, İstanbul'da TV tamiri denince akla gelen uzmanlar olmamızı sağladı.",
+      "Bugün, teknolojiyi yakından takip ederek en yeni ekipmanlara, eğitimlere ve tekniklere yatırım yapıyoruz. Sertifikalı teknisyen ekibimiz, her onarıma onlarca yıllık birleşik deneyimle yaklaşıyor."
+    ],
+    "teamImage": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "teamText": "Lorem  a ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "certifications": {
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "items": [
+        "Sertifikalı Elektronik Teknisyeni (CET)",
+        "Samsung Yetkili Servis Ortağı",
+        "LG Profesyonel Servis Sertifikası",
+        "Sony Teknik Eğitim Sertifikası",
+        "ISO 9001 Kalite Yönetimi"
+      ]
+    },
+    "statistics": {
+      "experience": {
+        "value": "15+",
+        "title": "Yıllık Deneyim",
+        "description": "Sektördeki tecrübemiz"
+      },
+      "repairedTvs": {
+        "value": "5000+",
+        "title": "Onarılan TV",
+        "description": "Tüm marka ve modeller"
+      },
+      "customerSatisfaction": {
+        "value": "4.9/5",
+        "title": "Müşteri Memnuniyeti",
+        "description": "Google & WhatsApp yorumları"
+      }
+    }
+  },
+  "statistics": {
+    "experience": 111,
+    "repairedTvs": 1,
+    "customerSatisfaction": 1
+  }
+}

@@ -1,0 +1,221 @@
+[
+  {
+    "name": "Samsung",
+    "models": []
+  },
+  {
+    "name": "LG",
+    "logo": "/uploads/1753122788887-ogkegf.png",
+    "originalName": "LG"
+  },
+  {
+    "name": "TCL",
+    "logo": "/brands/tcl.svg"
+  },
+  {
+    "name": "Philips",
+    "logo": "/brands/philips.svg"
+  },
+  {
+    "name": "Sony",
+    "logo": "/brands/sony.svg"
+  },
+  {
+    "name": "Vestel",
+    "logo": "/brands/vestel.svg"
+  },
+  {
+    "name": "Beko",
+    "logo": "/uploads/1753122897315-1myd80.png",
+    "originalName": "Beko"
+  },
+  {
+    "name": "Arçelik",
+    "logo": "/uploads/1753123175619-qqtaj0.png",
+    "originalName": "Arçelik"
+  },
+  {
+    "name": "Toshiba",
+    "logo": "/uploads/1753123224001-ehy807.png",
+    "originalName": "Toshiba"
+  },
+  {
+    "name": "Awox",
+    "logo": "/uploads/1753123263048-ymdfsc.jpg",
+    "originalName": "Awox"
+  },
+  {
+    "name": "Onvo",
+    "logo": "/uploads/1753123306993-6en9v4.png",
+    "originalName": "Onvo"
+  },
+  {
+    "name": "Dijitsu",
+    "logo": "/uploads/1753123801381-nulelg.png",
+    "originalName": "Dijitsu"
+  },
+  {
+    "name": "Sunny",
+    "logo": "/uploads/1753123540532-fgm7tm.png",
+    "originalName": "Sunny"
+  },
+  {
+    "name": "Next",
+    "logo": "/brands/placeholder.svg"
+  },
+  {
+    "name": "Grundig",
+    "logo": "/uploads/1753123626318-nukdru.png",
+    "originalName": "Grundig"
+  },
+  {
+    "name": "Altus",
+    "logo": "/uploads/1753123674468-6lgqw5.png",
+    "originalName": "Altus"
+  },
+  {
+    "name": "Axen",
+    "logo": "/uploads/1753123715933-q4xrn7.png",
+    "originalName": "Axen"
+  },
+  {
+    "name": "Botech",
+    "logo": "/uploads/1753123769323-ra61xg.png",
+    "originalName": "Botech"
+  },
+  {
+    "name": "Elton",
+    "logo": "/uploads/1753123898475-1qtb3j.png",
+    "originalName": "Elton"
+  },
+  {
+    "name": "Fenoti",
+    "logo": "/uploads/1753123926777-8hjvr5.png",
+    "originalName": "Fenoti"
+  },
+  {
+    "name": "Finlux",
+    "logo": "/uploads/1753123961434-yjapbf.png",
+    "originalName": "Finlux"
+  },
+  {
+    "name": "Hi-Level",
+    "logo": "/uploads/1753123988860-2tfu91.png",
+    "originalName": "Hi-Level"
+  },
+  {
+    "name": "Hyundai",
+    "logo": "/uploads/1753124014415-pafo9u.png",
+    "originalName": "Hyundai"
+  },
+  {
+    "name": "JVC",
+    "logo": "/uploads/1753124036533-feb003.png",
+    "originalName": "JVC"
+  },
+  {
+    "name": "Nexon",
+    "logo": "/uploads/1753124065297-nuw5ym.png",
+    "originalName": "Nexon"
+  },
+  {
+    "name": "Nordmende",
+    "logo": "/uploads/1753124094364-zu7tlb.png",
+    "originalName": "Nordmende"
+  },
+  {
+    "name": "Peaq",
+    "logo": "/uploads/1753124221977-ljbu1m.png",
+    "originalName": "Peaq"
+  },
+  {
+    "name": "Preo",
+    "logo": "/uploads/1753124259012-6i6erl.png",
+    "originalName": "Preo"
+  },
+  {
+    "name": "Profilo",
+    "logo": "/uploads/1753124288707-bbwgf7.png",
+    "originalName": "Profilo"
+  },
+  {
+    "name": "Redline",
+    "logo": "/uploads/1753124340851-o99f1a.png",
+    "originalName": "Redline"
+  },
+  {
+    "name": "Regal",
+    "logo": "/uploads/1753124368642-8d5p61.png",
+    "originalName": "Regal"
+  },
+  {
+    "name": "Seg",
+    "logo": "/uploads/1753124425951-96rdzu.png",
+    "originalName": "Seg"
+  },
+  {
+    "name": "Skytech",
+    "logo": "/uploads/1753124534623-6urxc2.png",
+    "originalName": "Skytech"
+  },
+  {
+    "name": "Telefunken",
+    "logo": "/uploads/1753124566301-iw8s7q.png",
+    "originalName": "Telefunken"
+  },
+  {
+    "name": "Telenova",
+    "logo": "/uploads/1753124607664-vlc3jk.png",
+    "originalName": "Telenova"
+  },
+  {
+    "name": "Woon",
+    "logo": "/uploads/1753124626198-6agna8.png",
+    "originalName": "Woon"
+  },
+  {
+    "name": "Xiaomi",
+    "logo": "/uploads/1753124652995-hp9jui.png",
+    "originalName": "Xiaomi"
+  },
+  {
+    "name": "Yumatu",
+    "logo": "/uploads/1753124677913-l24sc6.png",
+    "originalName": "Yumatu"
+  },
+  {
+    "name": "Hisense",
+    "models": [
+      "32A4BG",
+      "40A4BG",
+      "43A4BG",
+      "50A4BG",
+      "55A4BG",
+      "32A5K",
+      "40A5K",
+      "43A5K",
+      "50A5K",
+      "55A5K",
+      "65A5K",
+      "43A6K",
+      "50A6K",
+      "55A6K",
+      "65A6K",
+      "75A6K",
+      "43A7K",
+      "50A7K",
+      "55A7K",
+      "65A7K",
+      "75A7K",
+      "55U7K",
+      "65U7K",
+      "75U7K",
+      "85U7K",
+      "55U8K",
+      "65U8K",
+      "75U8K",
+      "85U8K"
+    ],
+    "logo": "/brands/placeholder.svg"
+  }
+]

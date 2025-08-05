@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Mehmet Kaya",
+    "location": "Kadıköy, İstanbul",
+    "rating": 5,
+    "comment": "Samsung TV'min ekranı bozulmuştu. Aynı gün geldiler ve 2 saatte hallettiler. Orijinal parça kullandılar, 1 yıl garanti verdiler. Çok memnunum.",
+    "service": "Samsung TV Ekran Tamiri",
+    "date": "2025-07-15",
+    "verified": true
+  },
+  {
+    "id": "2",
+    "name": "Ayşe Demir",
+    "location": "Beşiktaş, İstanbul",
+    "rating": 5,
+    "comment": "LG TV'mde arka aydınlatma sorunu vardı. Teknisyen çok bilgili ve işini iyi biliyor. Fiyat da gayet makul. Tavsiye ederim.",
+    "service": "LG LED Panel Tamiri",
+    "date": "2025-07-12",
+    "verified": true
+  },
+  {
+    "id": "3",
+    "name": "Can Özkan",
+    "location": "Şişli, İstanbul",
+    "rating": 5,
+    "comment": "55 inç Sony TV'min ekranı kırılmıştı. Diğer yerler çok pahalı fiyat vermişti. Burada hem uygun fiyat hem kaliteli hizmet aldım.",
+    "service": "Sony TV Ekran Değişimi",
+    "date": "2025-07-08",
+    "verified": true
+  },
+  {
+    "id": "4",
+    "name": "Fatma Yılmaz",
+    "location": "Üsküdar, İstanbul",
+    "rating": 5,
+    "comment": "Vestel TV'mde anakart sorunu vardı. Teknisyen evde teşhis yaptı, sorunu buldu ve hemen çözdü. Çok profesyonel yaklaşım.",
+    "service": "Vestel Anakart Tamiri",
+    "date": "2025-07-05",
+    "verified": true
+  },
+  {
+    "id": "5",
+    "name": "Ali Çelik",
+    "location": "Maltepe, İstanbul",
+    "rating": 5,
+    "comment": "TCL TV'min ölü piksel sorunu vardı. Çok detaylı inceleme yaptılar ve sorunu çözdüler. Garanti süresince hiç sorun çıkmadı.",
+    "service": "TCL TV Tamiri",
+    "date": "2025-07-02",
+    "verified": true
+  },
+  {
+    "id": "6",
+    "name": "Zeynep Aktaş",
+    "location": "Ataşehir, İstanbul",
+    "rating": 5,
+    "comment": "Philips TV'mde renk sorunu vardı. Panel değişimi gerekiyordu. İşçilik çok temiz, sonuçtan çok memnun kaldım.",
+    "service": "Philips Panel Değişimi",
+    "date": "2025-06-28",
+    "verified": true
+  },
+  {
+    "id": "7",
+    "name": "Murat Aslan",
+    "location": "Pendik, İstanbul",
+    "rating": 5,
+    "comment": "Hisense TV'min güç sorununu çözdüler. Hem hızlı hem ekonomik. Kesinlikle tavsiye ederim.",
+    "service": "Hisense Güç Tamiri",
+    "date": "2025-06-25",
+    "verified": true
+  },
+  {
+    "id": "8",
+    "name": "Selin Korkmaz",
+    "location": "Kartal, İstanbul",
+    "rating": 4,
+    "comment": "Panasonic TV tamiri için geldiler. İşçilik güzeldi ama randevu saati biraz gecikti. Sonuç olarak memnunum.",
+    "service": "Panasonic TV Tamiri",
+    "date": "2025-06-20",
+    "verified": true
+  }
+]

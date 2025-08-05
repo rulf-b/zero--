@@ -1,0 +1,527 @@
+{
+  "screenReplacement": "800",
+  "ledRepair": 900,
+  "motherboardRepair": 1200,
+  "samsung55nu7100": 1800,
+  "ledRepairRange": "₺500 - ₺1.20466",
+  "motherboardRepairRange": "₺6002 - ₺1.800",
+  "Samsung": {
+    "32\"": {
+      "Kırık Ekran": "₺970 ~ ₺1.450",
+      "Siyah Ekran": 1500,
+      "Arka Aydınlatma Sorunları": 800,
+      "Ölü Piksel": 1500,
+      "Renk Sorunları": 1500,
+      "Güç Yok": 600,
+      "Diğer": 1000
+    },
+    "40\"": {
+      "Kırık Ekran": 1800,
+      "Siyah Ekran": 1800,
+      "Arka Aydınlatma Sorunları": 900,
+      "Ölü Piksel": 1800,
+      "Renk Sorunları": 1800,
+      "Güç Yok": 700,
+      "Diğer": 1200
+    },
+    "43\"": {
+      "Kırık Ekran": 2000,
+      "Siyah Ekran": 2000,
+      "Arka Aydınlatma Sorunları": 1000,
+      "Ölü Piksel": 2000,
+      "Renk Sorunları": 2000,
+      "Güç Yok": 800,
+      "Diğer": 1400
+    },
+    "50\"": {
+      "Kırık Ekran": 2500,
+      "Siyah Ekran": 2500,
+      "Arka Aydınlatma Sorunları": 1200,
+      "Ölü Piksel": 2500,
+      "Renk Sorunları": 2500,
+      "Güç Yok": 900,
+      "Diğer": 1800
+    },
+    "55\"": {
+      "Kırık Ekran": 3000,
+      "Siyah Ekran": 3000,
+      "Arka Aydınlatma Sorunları": 1500,
+      "Ölü Piksel": 3000,
+      "Renk Sorunları": 3000,
+      "Güç Yok": 1000,
+      "Diğer": 2200
+    },
+    "65\"": {
+      "Kırık Ekran": 4000,
+      "Siyah Ekran": 4000,
+      "Arka Aydınlatma Sorunları": 2000,
+      "Ölü Piksel": 4000,
+      "Renk Sorunları": 4000,
+      "Güç Yok": 1200,
+      "Diğer": 3000
+    },
+    "75\"": {
+      "Kırık Ekran": 6000,
+      "Siyah Ekran": 6000,
+      "Arka Aydınlatma Sorunları": 3000,
+      "Ölü Piksel": 6000,
+      "Renk Sorunları": 6000,
+      "Güç Yok": 1500,
+      "Diğer": 4500
+    },
+    "85\"": {
+      "Kırık Ekran": 8000,
+      "Siyah Ekran": 8000,
+      "Arka Aydınlatma Sorunları": 4000,
+      "Ölü Piksel": 8000,
+      "Renk Sorunları": 8000,
+      "Güç Yok": 2000,
+      "Diğer": 6000
+    }
+  },
+  "LG": {
+    "32\"": {
+      "Kırık Ekran": 1600,
+      "Siyah Ekran": 1600,
+      "Arka Aydınlatma Sorunları": 850,
+      "Ölü Piksel": 1600,
+      "Renk Sorunları": 1600,
+      "Güç Yok": 650,
+      "Diğer": 1100
+    },
+    "40\"": {
+      "Kırık Ekran": 1900,
+      "Siyah Ekran": 1900,
+      "Arka Aydınlatma Sorunları": 950,
+      "Ölü Piksel": 1900,
+      "Renk Sorunları": 1900,
+      "Güç Yok": 750,
+      "Diğer": 1300
+    },
+    "43\"": {
+      "Kırık Ekran": 2100,
+      "Siyah Ekran": 2100,
+      "Arka Aydınlatma Sorunları": 1050,
+      "Ölü Piksel": 2100,
+      "Renk Sorunları": 2100,
+      "Güç Yok": 850,
+      "Diğer": 1500
+    },
+    "50\"": {
+      "Kırık Ekran": 2600,
+      "Siyah Ekran": 2600,
+      "Arka Aydınlatma Sorunları": 1300,
+      "Ölü Piksel": 2600,
+      "Renk Sorunları": 2600,
+      "Güç Yok": 950,
+      "Diğer": 1900
+    },
+    "55\"": {
+      "Kırık Ekran": 3100,
+      "Siyah Ekran": 3100,
+      "Arka Aydınlatma Sorunları": 1550,
+      "Ölü Piksel": 3100,
+      "Renk Sorunları": 3100,
+      "Güç Yok": 1050,
+      "Diğer": 2300
+    },
+    "65\"": {
+      "Kırık Ekran": 4100,
+      "Siyah Ekran": 4100,
+      "Arka Aydınlatma Sorunları": 2050,
+      "Ölü Piksel": 4100,
+      "Renk Sorunları": 4100,
+      "Güç Yok": 1250,
+      "Diğer": 3100
+    },
+    "75\"": {
+      "Kırık Ekran": 6100,
+      "Siyah Ekran": 6100,
+      "Arka Aydınlatma Sorunları": 3050,
+      "Ölü Piksel": 6100,
+      "Renk Sorunları": 6100,
+      "Güç Yok": 1550,
+      "Diğer": 4600
+    },
+    "85\"": {
+      "Kırık Ekran": 8100,
+      "Siyah Ekran": 8100,
+      "Arka Aydınlatma Sorunları": 4050,
+      "Ölü Piksel": 8100,
+      "Renk Sorunları": 8100,
+      "Güç Yok": 2050,
+      "Diğer": 6100
+    }
+  },
+  "Sony": {
+    "32\"": {
+      "Kırık Ekran": 1700,
+      "Siyah Ekran": 1700,
+      "Arka Aydınlatma Sorunları": 900,
+      "Ölü Piksel": 1700,
+      "Renk Sorunları": 1700,
+      "Güç Yok": 700,
+      "Diğer": 1200
+    },
+    "40\"": {
+      "Kırık Ekran": 2000,
+      "Siyah Ekran": 2000,
+      "Arka Aydınlatma Sorunları": 1000,
+      "Ölü Piksel": 2000,
+      "Renk Sorunları": 2000,
+      "Güç Yok": 800,
+      "Diğer": 1400
+    },
+    "43\"": {
+      "Kırık Ekran": 2200,
+      "Siyah Ekran": 2200,
+      "Arka Aydınlatma Sorunları": 1100,
+      "Ölü Piksel": 2200,
+      "Renk Sorunları": 2200,
+      "Güç Yok": 900,
+      "Diğer": 1600
+    },
+    "50\"": {
+      "Kırık Ekran": 2700,
+      "Siyah Ekran": 2700,
+      "Arka Aydınlatma Sorunları": 1350,
+      "Ölü Piksel": 2700,
+      "Renk Sorunları": 2700,
+      "Güç Yok": 1000,
+      "Diğer": 2000
+    },
+    "55\"": {
+      "Kırık Ekran": 3200,
+      "Siyah Ekran": 3200,
+      "Arka Aydınlatma Sorunları": 1600,
+      "Ölü Piksel": 3200,
+      "Renk Sorunları": 3200,
+      "Güç Yok": 1100,
+      "Diğer": 2400
+    },
+    "65\"": {
+      "Kırık Ekran": 4200,
+      "Siyah Ekran": 4200,
+      "Arka Aydınlatma Sorunları": 2100,
+      "Ölü Piksel": 4200,
+      "Renk Sorunları": 4200,
+      "Güç Yok": 1300,
+      "Diğer": 3200
+    },
+    "75\"": {
+      "Kırık Ekran": 6200,
+      "Siyah Ekran": 6200,
+      "Arka Aydınlatma Sorunları": 3100,
+      "Ölü Piksel": 6200,
+      "Renk Sorunları": 6200,
+      "Güç Yok": 1400,
+      "Diğer": 4700
+    },
+    "85\"": {
+      "Kırık Ekran": 8200,
+      "Siyah Ekran": 8200,
+      "Arka Aydınlatma Sorunları": 4100,
+      "Ölü Piksel": 8200,
+      "Renk Sorunları": 8200,
+      "Güç Yok": 2100,
+      "Diğer": 6200
+    }
+  },
+  "Philips": {
+    "32\"": {
+      "Kırık Ekran": 1400,
+      "Siyah Ekran": 1400,
+      "Arka Aydınlatma Sorunları": 750,
+      "Ölü Piksel": 1400,
+      "Renk Sorunları": 1400,
+      "Güç Yok": 550,
+      "Diğer": 950
+    },
+    "40\"": {
+      "Kırık Ekran": 1700,
+      "Siyah Ekran": 1700,
+      "Arka Aydınlatma Sorunları": 850,
+      "Ölü Piksel": 1700,
+      "Renk Sorunları": 1700,
+      "Güç Yok": 650,
+      "Diğer": 1150
+    },
+    "43\"": {
+      "Kırık Ekran": 1900,
+      "Siyah Ekran": 1900,
+      "Arka Aydınlatma Sorunları": 950,
+      "Ölü Piksel": 1900,
+      "Renk Sorunları": 1900,
+      "Güç Yok": 750,
+      "Diğer": 1350
+    },
+    "50\"": {
+      "Kırık Ekran": 2400,
+      "Siyah Ekran": 2400,
+      "Arka Aydınlatma Sorunları": 1200,
+      "Ölü Piksel": 2400,
+      "Renk Sorunları": 2400,
+      "Güç Yok": 850,
+      "Diğer": 1750
+    },
+    "55\"": {
+      "Kırık Ekran": 2900,
+      "Siyah Ekran": 2900,
+      "Arka Aydınlatma Sorunları": 1450,
+      "Ölü Piksel": 2900,
+      "Renk Sorunları": 2900,
+      "Güç Yok": 950,
+      "Diğer": 2150
+    },
+    "65\"": {
+      "Kırık Ekran": 3900,
+      "Siyah Ekran": 3900,
+      "Arka Aydınlatma Sorunları": 1950,
+      "Ölü Piksel": 3900,
+      "Renk Sorunları": 3900,
+      "Güç Yok": 1150,
+      "Diğer": 2950
+    },
+    "75\"": {
+      "Kırık Ekran": 5900,
+      "Siyah Ekran": 5900,
+      "Arka Aydınlatma Sorunları": 2950,
+      "Ölü Piksel": 5900,
+      "Renk Sorunları": 5900,
+      "Güç Yok": 1450,
+      "Diğer": 4450
+    },
+    "85\"": {
+      "Kırık Ekran": 7900,
+      "Siyah Ekran": 7900,
+      "Arka Aydınlatma Sorunları": 3950,
+      "Ölü Piksel": 7900,
+      "Renk Sorunları": 7900,
+      "Güç Yok": 1950,
+      "Diğer": 5950
+    }
+  },
+  "Vestel": {
+    "32\"": {
+      "Kırık Ekran": 1300,
+      "Siyah Ekran": 1300,
+      "Arka Aydınlatma Sorunları": 700,
+      "Ölü Piksel": 1300,
+      "Renk Sorunları": 1300,
+      "Güç Yok": 500,
+      "Diğer": 900
+    },
+    "40\"": {
+      "Kırık Ekran": 1600,
+      "Siyah Ekran": 1600,
+      "Arka Aydınlatma Sorunları": 800,
+      "Ölü Piksel": 1600,
+      "Renk Sorunları": 1600,
+      "Güç Yok": 600,
+      "Diğer": 1100
+    },
+    "43\"": {
+      "Kırık Ekran": 1800,
+      "Siyah Ekran": 1800,
+      "Arka Aydınlatma Sorunları": 900,
+      "Ölü Piksel": 1800,
+      "Renk Sorunları": 1800,
+      "Güç Yok": 700,
+      "Diğer": 1300
+    },
+    "50\"": {
+      "Kırık Ekran": 2300,
+      "Siyah Ekran": 2300,
+      "Arka Aydınlatma Sorunları": 1150,
+      "Ölü Piksel": 2300,
+      "Renk Sorunları": 2300,
+      "Güç Yok": 800,
+      "Diğer": 1700
+    },
+    "55\"": {
+      "Kırık Ekran": 2800,
+      "Siyah Ekran": 2800,
+      "Arka Aydınlatma Sorunları": "₺1.120 ~ ₺999.999",
+      "Ölü Piksel": 2800,
+      "Renk Sorunları": 2800,
+      "Güç Yok": 900,
+      "Diğer": 2100
+    },
+    "65\"": {
+      "Kırık Ekran": 3800,
+      "Siyah Ekran": 3800,
+      "Arka Aydınlatma Sorunları": 1900,
+      "Ölü Piksel": 3800,
+      "Renk Sorunları": 3800,
+      "Güç Yok": 1100,
+      "Diğer": 2900
+    },
+    "75\"": {
+      "Kırık Ekran": 5800,
+      "Siyah Ekran": 5800,
+      "Arka Aydınlatma Sorunları": 2900,
+      "Ölü Piksel": 5800,
+      "Renk Sorunları": 5800,
+      "Güç Yok": 1400,
+      "Diğer": 4400
+    },
+    "85\"": {
+      "Kırık Ekran": 7800,
+      "Siyah Ekran": 7800,
+      "Arka Aydınlatma Sorunları": 3900,
+      "Ölü Piksel": 7800,
+      "Renk Sorunları": 7800,
+      "Güç Yok": 1900,
+      "Diğer": 5900
+    }
+  },
+  "TCL": {
+    "32\"": {
+      "Kırık Ekran": 1350,
+      "Siyah Ekran": 1350,
+      "Arka Aydınlatma Sorunları": 725,
+      "Ölü Piksel": 1350,
+      "Renk Sorunları": 1350,
+      "Güç Yok": 525,
+      "Diğer": 925
+    },
+    "40\"": {
+      "Kırık Ekran": 1650,
+      "Siyah Ekran": 1650,
+      "Arka Aydınlatma Sorunları": 825,
+      "Ölü Piksel": 1650,
+      "Renk Sorunları": 1650,
+      "Güç Yok": 625,
+      "Diğer": 1125
+    },
+    "43\"": {
+      "Kırık Ekran": 1850,
+      "Siyah Ekran": 1850,
+      "Arka Aydınlatma Sorunları": 925,
+      "Ölü Piksel": 1850,
+      "Renk Sorunları": 1850,
+      "Güç Yok": 725,
+      "Diğer": 1325
+    },
+    "50\"": {
+      "Kırık Ekran": 2350,
+      "Siyah Ekran": 2350,
+      "Arka Aydınlatma Sorunları": 1175,
+      "Ölü Piksel": 2350,
+      "Renk Sorunları": 2350,
+      "Güç Yok": 825,
+      "Diğer": 1725
+    },
+    "55\"": {
+      "Kırık Ekran": 2850,
+      "Siyah Ekran": 2850,
+      "Arka Aydınlatma Sorunları": 1425,
+      "Ölü Piksel": 2850,
+      "Renk Sorunları": 2850,
+      "Güç Yok": 925,
+      "Diğer": 2125
+    },
+    "65\"": {
+      "Kırık Ekran": 3850,
+      "Siyah Ekran": 3850,
+      "Arka Aydınlatma Sorunları": 1925,
+      "Ölü Piksel": 3850,
+      "Renk Sorunları": 3850,
+      "Güç Yok": 1125,
+      "Diğer": 2925
+    },
+    "75\"": {
+      "Kırık Ekran": 5850,
+      "Siyah Ekran": 5850,
+      "Arka Aydınlatma Sorunları": 2925,
+      "Ölü Piksel": 5850,
+      "Renk Sorunları": 5850,
+      "Güç Yok": 1425,
+      "Diğer": 4425
+    },
+    "85\"": {
+      "Kırık Ekran": 7850,
+      "Siyah Ekran": 7850,
+      "Arka Aydınlatma Sorunları": 3925,
+      "Ölü Piksel": 7850,
+      "Renk Sorunları": 7850,
+      "Güç Yok": 1925,
+      "Diğer": 5925
+    }
+  },
+  "Hisense": {
+    "32\"": {
+      "Kırık Ekran": 1450,
+      "Siyah Ekran": 1450,
+      "Arka Aydınlatma Sorunları": 775,
+      "Ölü Piksel": 1450,
+      "Renk Sorunları": 1450,
+      "Güç Yok": 575,
+      "Diğer": 975
+    },
+    "40\"": {
+      "Kırık Ekran": 1750,
+      "Siyah Ekran": 1750,
+      "Arka Aydınlatma Sorunları": 875,
+      "Ölü Piksel": 1750,
+      "Renk Sorunları": 1750,
+      "Güç Yok": 675,
+      "Diğer": 1175
+    },
+    "43\"": {
+      "Kırık Ekran": 1950,
+      "Siyah Ekran": 1950,
+      "Arka Aydınlatma Sorunları": 975,
+      "Ölü Piksel": 1950,
+      "Renk Sorunları": 1950,
+      "Güç Yok": 775,
+      "Diğer": 1375
+    },
+    "50\"": {
+      "Kırık Ekran": 2450,
+      "Siyah Ekran": 2450,
+      "Arka Aydınlatma Sorunları": 1225,
+      "Ölü Piksel": 2450,
+      "Renk Sorunları": 2450,
+      "Güç Yok": 875,
+      "Diğer": 1775
+    },
+    "55\"": {
+      "Kırık Ekran": 2950,
+      "Siyah Ekran": 2950,
+      "Arka Aydınlatma Sorunları": 1475,
+      "Ölü Piksel": 2950,
+      "Renk Sorunları": 2950,
+      "Güç Yok": 975,
+      "Diğer": 2175
+    },
+    "65\"": {
+      "Kırık Ekran": 3950,
+      "Siyah Ekran": 3950,
+      "Arka Aydınlatma Sorunları": 1975,
+      "Ölü Piksel": 3950,
+      "Renk Sorunları": 3950,
+      "Güç Yok": 1175,
+      "Diğer": 2975
+    },
+    "75\"": {
+      "Kırık Ekran": 5950,
+      "Siyah Ekran": 5950,
+      "Arka Aydınlatma Sorunları": 2975,
+      "Ölü Piksel": 5950,
+      "Renk Sorunları": 5950,
+      "Güç Yok": 1475,
+      "Diğer": 4475
+    },
+    "85\"": {
+      "Kırık Ekran": 7950,
+      "Siyah Ekran": 7950,
+      "Arka Aydınlatma Sorunları": 3975,
+      "Ölü Piksel": 7950,
+      "Renk Sorunları": 7950,
+      "Güç Yok": 1975,
+      "Diğer": 5975
+    }
+  },
+  "generalQuoteRange": "₺200 ~ ₺800"
+}

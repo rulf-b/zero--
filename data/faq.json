@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "question": "TV ekranım kırıldı, tamir mi edilmeli yoksa değişmeli mi?",
+    "answer": "Çoğu durumda kırık ekranlar tamir edilemez, ekran değişimi gerekir. Ancak panelin tipi ve hasarın boyutuna göre en uygun çözümü uzmanlarımız belirler."
+  },
+  {
+    "id": "2",
+    "question": "TV tamiri ne kadar sürer?",
+    "answer": "Çoğu TV ekran değişimi ve tamiri aynı gün içinde tamamlanır. Parça temini veya özel arızalarda süre değişebilir."
+  },
+  {
+    "id": "3",
+    "question": "Tamir sonrası garanti veriyor musunuz?",
+    "answer": "Evet, tüm ekran değişimi ve tamir işlemlerimizde 12 ay garanti sunuyoruz."
+  },
+  {
+    "id": "4",
+    "question": "TV ekranımda ses var ama görüntü yok, neden olabilir?",
+    "answer": "Bu sorun genellikle arka aydınlatma arızası, panel veya anakart kaynaklı olabilir. Uzman teşhisi gereklidir."
+  },
+  {
+    "id": "5",
+    "question": "TV ekran değişimi fiyatları neye göre belirleniyor?",
+    "answer": "Fiyatlar; TV'nin marka/modeli, ekran boyutu, panel tipi ve yedek parça maliyetine göre belirlenir. Net fiyat için ücretsiz teklif alabilirsiniz."
+  }
+]
