@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // output: 'export', // Admin paneli için kaldırıldı
+  trailingSlash: true,
   eslint: {
     ignoreDuringBuilds: true,
   },

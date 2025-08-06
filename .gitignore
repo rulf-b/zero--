@@ -34,3 +34,35 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# logs
+/logs
+*.log
+
+# temporary files
+/temp
+/tmp
+
+# backup files
+*.bak
+*.backup
+
+# development scripts
+update-*.js
+create-*.js
+debug-*.js
+fix-*.js
+generate-*.js
+get-*.js
+test-*.js
+reset-*.js
+*-template.js
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
